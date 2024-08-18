@@ -1,2 +1,1 @@
-# hello-world
-This is for the web application, It's a repo for practicing purpose.
+This is Sam doing my 3rd year Information technology in OsloMet.
